@@ -1,0 +1,12 @@
+@media all and (min-width: 480px) {
+    .ql-editor {
+        width: 70%;
+        margin: 20px auto;
+    }
+
+    .form-actions {
+        margin: 0;
+        background-color: transparent;
+        text-align: center;
+    }
+}

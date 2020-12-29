@@ -1,0 +1,152 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "first_name": "Customer_1",
+      "last_name": "Customer_11",
+      "email": "customer1@mail.com",
+      "phone": "00000000000",
+      "address": "Customer_1 Address",
+      "description": "Customer_1 description"
+    },
+    {
+      "id": 2,
+      "first_name": "Customer_2",
+      "last_name": "Customer_2",
+      "email": "customer2@mail.com",
+      "phone": "00000000000",
+      "address": "Customer_2 Adress",
+      "description": "Customer_2 Description"
+    },
+    {
+      "first_name": "Aashish",
+      "last_name": "Dahal",
+      "email": "aashdahal@gmail.com",
+      "phone": "9849949608",
+      "address": "Thimi, Bhaktapur",
+      "description": "No description",
+      "id": 3
+    },
+    {
+      "username": "23123",
+      "password": "1234",
+      "id": 4
+    }
+  ],
+  "login": [
+    {
+      "username": "sdfsdf",
+      "password": "1212",
+      "id": 1
+    },
+    {
+      "username": "123123",
+      "password": "123213",
+      "id": 2
+    },
+    {
+      "username": "123123",
+      "password": "123123",
+      "id": 3
+    },
+    {
+      "username": "2123232",
+      "password": "12313",
+      "id": 4
+    },
+    {
+      "username": "234234",
+      "password": "wrewr",
+      "id": 5
+    },
+    {
+      "username": "1231",
+      "password": "12313",
+      "id": 6
+    },
+    {
+      "username": "234234",
+      "password": "1232",
+      "id": 7
+    },
+    {
+      "username": "erewr",
+      "password": "werwer",
+      "id": 8
+    },
+    {
+      "username": "12312",
+      "password": "234324",
+      "id": 9
+    },
+    {
+      "username": "12312",
+      "password": "234324",
+      "id": 10
+    },
+    {
+      "username": "12312",
+      "password": "234324",
+      "id": 11
+    }
+  ],
+  "register": [
+    {
+      "username": "sdfsdf",
+      "password": "1212",
+      "repeatPassword": "1212",
+      "id": 1
+    },
+    {
+      "username": "234234",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "username": "test",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "username": "test",
+      "password": "12345",
+      "id": 4
+    },
+    {
+      "username": "234234",
+      "password": "wer",
+      "id": 5
+    },
+    {
+      "username": "1212",
+      "password": "1212",
+      "id": 6
+    }
+  ],
+  "posts": [
+    {
+      "title": "JSON SERVER",
+      "author": "foo",
+      "text": "Presently she began again. 'I wonder if I shall fall right THROUGH the earth! How funny it'll seem to come out among the people that walk with their heads downward!",
+      "id": 1
+    },
+    {
+      "title": "c",
+      "author": "facebook",
+      "text": "And what an ignorant little girl she'll think me for asking! No, it'll never do to ask: perhaps I shall see it written up somewhere.",
+      "id": 2
+    },
+    {
+      "title": "BOOTSTRAP",
+      "author": "css master",
+      "text": "There are no mice in the air, I'm afraid, but you might catch a bat, and that's very like a mouse, you know. But do cats eat bats, I wonder?",
+      "id": 3
+    },
+    {
+      "title": "MEDIUM",
+      "author": "medium",
+      "text": " And so it was indeed: she was now only ten inches high, and her face brightened up at the thought that she was now the right size for going through the little door into that lovely garden.",
+      "id": 4
+    }
+  ]
+}
